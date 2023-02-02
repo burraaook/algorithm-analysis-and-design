@@ -14,12 +14,15 @@
 # DP and Naive Maximize Profit
 - DP : O(n)  
 - Naive : O(n^2)  
+  
 ![](images/dpnmax.jpg)
 
 # Route Game with Dynamic Programming - O(m*n)  
 - m is row, n is column  
+  
 ![](images/dproute.jpg)  
 
 # Route Game with Greedy Algorithm - O(m+n)  
 - m is row, n is column  
+  
 ![](images/greedyroute.jpg)  
